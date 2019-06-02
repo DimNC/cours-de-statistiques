@@ -9,7 +9,7 @@ L'objectif est de créer un cours en versions pdf + ebook + gitbook de différen
 - L'approche Bayesienne
 - …
 
--
+<hr>
 
 Dimitri Naczaj <br>
 Juin 2019 - Dijon
