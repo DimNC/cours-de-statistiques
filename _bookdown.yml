@@ -1,0 +1,8 @@
+book_filename: "Comparaison-de-modèles"
+delete_merged_file: true
+language:
+  label:
+    fig: 'Figure '
+    tab: 'Tableau '
+  ui:
+    chapter_name: "Chapitre "

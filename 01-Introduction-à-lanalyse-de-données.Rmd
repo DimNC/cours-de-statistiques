@@ -1,0 +1,7 @@
+# Introduction à l'analyse des données {#intro}
+
+## Esquisse de l'analyse des données
+$$\textrm{DONNÉES}=\textrm{MODÈLE}+\textrm{ERREUR}$$
+## Estimateur de $ß\beta_0$
+
+$$\textrm{ERREUR} = \sum_{i=1}^{n}w_ie^2_j=\sum_{i=1}^nw_i(Y_i-\widehat{Y}_i)^2=\sum_{i=1}^{n}w_i(Y_i-b_0)^2$$

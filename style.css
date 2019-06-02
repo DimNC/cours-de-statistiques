@@ -1,0 +1,31 @@
+:root{
+  --primary-color: pink;
+  --secondary-color: red;
+  --text-color: black;
+}
+
+p.caption {
+  margin-top: 10px;
+}
+
+p{
+  color: var(--text-color);
+  font-size: 1.5rem;
+}
+
+/* CSS Element for equations
+.mjx-char {
+  font-size: 2rem;
+}
+*/
+
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
