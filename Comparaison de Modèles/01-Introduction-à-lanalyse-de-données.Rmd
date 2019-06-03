@@ -1,5 +1,7 @@
 # Introduction à l'analyse des données {#intro}
 
+blablabla.
+
 ## Esquisse de l'analyse des données
 $$\textrm{DONNÉES}=\textrm{MODÈLE}+\textrm{ERREUR}$$
 ## Estimateur de $ß\beta_0$
