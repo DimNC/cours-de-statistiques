@@ -1,0 +1,5 @@
+# Quelques sources pour apprendre les stats bayesiennes
+
+1. https://www.r-bloggers.com/?p=182563
+2. 
+
